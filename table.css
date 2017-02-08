@@ -1,0 +1,112 @@
+
+
+
+
+.list-group-item-danger {
+    color: #fff;
+    background-color: #5776AA;
+    padding: 0px 20px;
+}
+.list-group-item-danger .heading{ }
+
+.list-group-item-red {
+    color: rgba(247, 245, 245, 0.92);
+    background-color: #D5242A;
+    padding: 10px;
+}
+.list-group-item-brown {
+    color: rgba(247, 245, 245, 0.92);
+    background-color: #B97A57;
+    padding: 10px;
+}
+.page-section1{
+    padding: 15px;
+}
+.page-section2 {
+    padding: 0px 15px 15px 15px;
+}
+.margin_10{
+    margin:10px!important;
+}
+.margin_top_10{
+    margin-top: 10px!important;
+}
+.margin_left_6{
+    margin-left: 6px!important;
+}
+.padding_5{
+    padding: 5px!important;
+}
+.padding_25{
+    padding: 25px!important;
+}
+.bgd_greya{
+    background-color: #D6D6D6;
+}
+.color_brown{
+    color: #B97A57;
+}
+.color_red{
+    color: #D5242A;
+}
+.block_header{
+    background-color: #435A82;
+}
+.result img{
+    width: 144px!important;
+    height: 178px!important;
+}
+.active td{
+    background-color: #D5242A!important;
+}
+.col-sm-3 a{color:#E4F0FB;}
+.col-sm-3 a:hover{text-decoration:none;color:FF9800;}
+.social .social1{border-radius: 50%;
+    width: 40px;
+    height: 40;
+    background: #2196F3;
+    font-size: 30px;
+    padding: 1 0 40 0;
+    font-weight: 700;
+}
+.social ul li{list-style:none; padding:5px;}
+.social ul button:hover{background-color:red;}
+.social ul a:hover{text-decoration:none;color:white;}
+.graphs table tr td{color:#FFC107;}
+
+.graphs table tr{color:#03A9F4;}
+
+.graphs table tr .active{color:#15F3E0;}
+.table>tbody>tr.active>td{
+background-color:rgba(239, 33, 99, 0.83)}
+.breaking-news {
+    margin-right: 24px;
+    margin-left: 24px;
+    -webkit-box-shadow: 0 0 2px #CACACA;
+       -moz-box-shadow: 0 0 2px #cacaca;
+            box-shadow: 0 0 2px #CACACA;
+}
+	/**
+ * Breaking News
+ * -----------------------------------------------------------------------------
+ */
+
+.page_header{
+    margin: 10px 0 1px!important;
+    border-bottom :0px!important;
+}
+.navbar{ margin-bottom: 0px;}
+.page-header {     padding-bottom: 0px;}
+blockquote footer{display: block;
+    font-size: 99%; 
+    line-height: 1.42857143;
+    color: #fff;}
+    
+    
+    
+    
+    /* ------------------------------------for hover effect on images-----------------------------------------*/
+ 
+ 
+ 
+ 
